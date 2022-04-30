@@ -1,14 +1,6 @@
 
 
-name: Node CI
 
-on: [push]
-
-jobs:
-  build:
-    ...
-  test:
-    ...
 name: Node CI
 
 on: [push]
